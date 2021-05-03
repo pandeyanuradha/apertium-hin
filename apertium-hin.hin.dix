@@ -1264,7 +1264,7 @@
       <e>       <p><l>हूँ</l><r>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>       <p><l>हूं</l><r>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>       <p><l>हैं</l><r>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
-      <!-- <e>       <p><l>हैं</l><r>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e> -->
+      <e>       <p><l>हैं</l><r>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e>       <p><l>है</l><r>हो<s n="vbser"/><s n="pres"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>       <p><l>हो</l><r>हो<s n="vbser"/><s n="pres"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -1662,6 +1662,7 @@
 	<e lm="अलावा"><i>अलावा</i><par n="ने__post"/></e>
 	<e lm="बतौर"><i>बतौर</i><par n="ने__post"/></e>
     <e lm="का"><i></i><par n="__gen_endings"/></e>
+	<e lm="के"><i></i><par n="__gen_endings"/></e>
     <e lm="ने" ><i>ने</i><par n="ने__post"/></e>
     <e lm="को"><i>को</i><par n="ने__post"/></e>
     <e lm="में" ><i>में</i><par n="ने__post"/></e>
@@ -1921,7 +1922,7 @@
 	<e lm="करोड़"><i>करोड़</i><par n="आठ__num"/></e>
 	<e lm="अरब"><i>अरब</i><par n="आठ__num"/></e>
     <!-- SECTION: Pronouns -->
- 
+
      <e lm="मैं"><i>म</i><par n="म/ैं__prn"/></e>
      <e lm="हम"><i>ह</i><par n="ह/म__prn"/></e>
      <e lm="तुम"><i>त</i><par n="त/ुम__prn"/></e>
@@ -32920,7 +32921,6 @@
 
     <!-- Punctuation -->
     <e lm=","><i>,</i><par n="coma"/></e>
-       
    </section>
    <section id="final" type="inconditional">
     <e><par n="coma"/></e>
