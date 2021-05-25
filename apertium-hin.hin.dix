@@ -1240,24 +1240,27 @@
       <e>       <p><l>होंगे</l><r>हो<s n="vbser"/><s n="fut"/><s n="p1"/><s n="m"/><s n="pl"/></r></p></e>
       <e>       <p><l>होगी</l><r>हो<s n="vbser"/><s n="fut"/><s n="p1"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>होंगी</l><r>हो<s n="vbser"/><s n="fut"/><s n="p1"/><s n="f"/><s n="pl"/></r></p></e>
-      <e>       <p><l>होगा</l><r>हो<s n="vbser"/><s n="fut"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>होंगे</l><r>हो<s n="vbser"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+      
+	  <e>       <p><l>होगा</l><r>हो<s n="vbser"/><s n="fut"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>  <!--होगे-->
+      <e>       <p><l>होंगे</l><r>हो<s n="vbser"/><s n="fut"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>	<!--होगे-->
       <e>       <p><l>होगी</l><r>हो<s n="vbser"/><s n="fut"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>होंगी</l><r>हो<s n="vbser"/><s n="fut"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
-      <e>       <p><l>होगा</l><r>हो<s n="vbser"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      
+	  <e>       <p><l>होगा</l><r>हो<s n="vbser"/><s n="fut"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>होंगे</l><r>हो<s n="vbser"/><s n="fut"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-      <e>       <p><l>होगी</l><r>हो<s n="vbser"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>होंगी</l><r>हो<s n="vbser"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-      <e>       <p><l>होनेवाला</l><r>हो<s n="vbser"/><s n="agnt"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>होगी</l><r>हो<s n="vbser"/><s n="fut"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>  
+	  <e>       <p><l>होंगी</l><r>हो<s n="vbser"/><s n="fut"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+      
+	  <e>       <p><l>होनेवाला</l><r>हो<s n="vbser"/><s n="agnt"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>होनेवाले</l><r>हो<s n="vbser"/><s n="agnt"/><s n="m"/><s n="pl"/></r></p></e>
       <e>       <p><l>होनेवाली</l><r>हो<s n="vbser"/><s n="agnt"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>होनेवाली</l><r>हो<s n="vbser"/><s n="agnt"/><s n="f"/><s n="pl"/></r></p></e>
-      <e>       <p><l>होना</l><r>हो<s n="vbser"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
+      
+	  <e>       <p><l>होना</l><r>हो<s n="vbser"/><s n="inf"/><s n="nom"/><s n="m"/></r></p></e>
       <e>       <p><l>होनी</l><r>हो<s n="vbser"/><s n="inf"/><s n="nom"/><s n="f"/></r></p></e>
       <e>       <p><l>होने</l><r>हो<s n="vbser"/><s n="inf"/><s n="obl"/></r></p></e>
 
       <e>       <p><l>हूँ</l><r>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e>       <p><l>हूं</l><r>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>       <p><l>हैं</l><r>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
       <e>       <p><l>हैं</l><r>हो<s n="vbser"/><s n="pres"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
 
@@ -1266,7 +1269,7 @@
 
       <e>       <p><l>है</l><r>हो<s n="vbser"/><s n="pres"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>       <p><l>है</l><r>हो<s n="vbser"/><s n="pres"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e>       <p><l>हैं</l><r>हो<s n="vbser"/><s n="pres"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"> <p><l>हैं</l><r>हो<s n="vbser"/><s n="pres"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 
       <e r="LR">       <p><l>हुये</l><r>हो<s n="vbser"/><s n="imp"/><s n="p2"/><s n="frm"/><s n="pl"/></r></p></e>
       <e>       <p><l>हुए</l><r>हो<s n="vbser"/><s n="imp"/><s n="p2"/><s n="frm"/><s n="pl"/></r></p></e>
